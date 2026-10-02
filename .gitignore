@@ -1,0 +1,16 @@
+# Виртуальные окружения Python (во всех подпапках)
+**/.venv/
+**/venv/
+**/env/
+
+# Настройки PyCharm
+**/.idea/
+
+# Кэш Python
+**/__pycache__/
+**/*.py[cod]
+**/*$py.class
+
+# Прочее
+.DS_Store
+*.log

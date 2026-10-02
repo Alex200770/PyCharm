@@ -1,0 +1,16 @@
+# Виртуальное окружение Python
+.venv/
+venv/
+env/
+
+# Настройки PyCharm
+.idea/
+
+# Кэш Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Прочее
+.DS_Store
+*.log

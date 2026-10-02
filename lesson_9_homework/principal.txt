@@ -1,0 +1,4 @@
+sweater 3 3 3 3 3 3 3 Weather
+snowy weather
+sonny weather
+cloady Weather weather weather
