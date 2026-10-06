@@ -1,6 +1,5 @@
 from enum import nonmember
 
-
 class Soda:
 
     def __init__(self, flavor = None):
@@ -27,6 +26,3 @@ if your_flavor in W:
 else:
     soda1 = Soda()
 print(soda1)
-
-# soda2 = Soda()
-# print(soda2)
