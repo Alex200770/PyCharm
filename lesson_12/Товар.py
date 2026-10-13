@@ -37,9 +37,9 @@ class Storehouse:
                 return product
         return None
     def name_sort(self):
-        self.__products.sort(key=lambda p: p.price)
+        self.__products.sort(key=lambda p: p.name)
     def store_sort(self):
-        self.__products.sort(key=lambda p: p.price)
+        self.__products.sort(key=lambda p: p.store)
     def price_sort(self):
         self.__products.sort(key=lambda p: p.price)
     def print_all(self):
